@@ -1,3 +1,4 @@
+##Setup
 Create zookeeper deployment and service
 $ kb create -f zookeeper-deployment.yaml
 
